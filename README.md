@@ -1,4 +1,4 @@
-# Nominal GDP Scraper
+# gdp-scraper-wikipedia
 
 ## Project Overview
 This project gets the GDP data of countries from a saved Wikipedia page by using Pandas to read the tables on the page. The data is cleaned and processed to find the top 10 countries by GDP, convert the numbers to billions, and save the results in a CSV file.
