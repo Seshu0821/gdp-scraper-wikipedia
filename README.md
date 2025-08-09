@@ -14,7 +14,8 @@ https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of
 ## Tools Used
 - Python 3  
 - Pandas (to read and process tables)  
-- NumPy (for number calculations)  
+- NumPy (for number calculations)
+- lxm (for parsing) 
 
 ---
 
