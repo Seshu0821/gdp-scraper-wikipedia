@@ -1,0 +1,8 @@
+
+--->pandas (for reading HTML tables and data manipulation)
+
+--->numpy (for numerical operations like rounding)
+
+--->lxml (to help pandas parse HTML reliably)
+
+
